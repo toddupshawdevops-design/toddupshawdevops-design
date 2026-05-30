@@ -1,8 +1,15 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Todd Upshaw
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hey, I'm Todd Upshaw
+</h1>
 
-### ☁️ Cloud • Security • AI Engineer
+<!-- <h3 align="center">
+  ☁️ Cloud • Security • AI Engineer
+</h3> -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Cloud+Engineer;Cloud+Security+Engineer;Detection+Engineer;DevSecOps+Engineer;AI%2FML+Engineer;Automation+%26+Infrastructure+Builder" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Cloud+Engineer;Cloud+Security+Engineer;Detection+Engineer;DevSecOps+Engineer;AI%2FML+Engineer;Automation+%26+Infrastructure+Builder" />
+</p>
 
 ---
 
@@ -161,11 +168,9 @@ I enjoy designing systems that are:
 # 📊 GitHub Analytics
 
 <p align="center">
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=toddupshawdevops-design&show_icons=true&theme=radical" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=toddupshawdevops-design&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toddupshawdevops-design&layout=compact&theme=tokyonight"/>
-
+  <img width="37%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=toddupshawdevops-design&layout=compact&theme=radical" />
 </p>
 
 ---
