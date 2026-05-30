@@ -23,7 +23,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="./Todd_Upshaw_Resume.pdf">
+  <a href="./Todd_Upshaw_Resume.docx">
     <img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobeacrobatreader">
   </a>
 </p>
