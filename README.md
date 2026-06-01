@@ -20,7 +20,7 @@
   <a href="https://github.com/toddupshawdevops-design">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/todd-upshaw/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="./Todd_Upshaw_Resume.docx">
