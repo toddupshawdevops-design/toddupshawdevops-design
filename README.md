@@ -34,7 +34,7 @@
 
 Cloud, Security, and AI Engineer focused on building scalable infrastructure, detection engineering platforms, automation systems, and intelligent analytics solutions.
 
-Over the past 3 years I've worked across:
+Over the past 5 years I've worked across:
 
 * ☁️ Cloud Infrastructure Engineering
 * 🔐 Security Operations & Detection Engineering
